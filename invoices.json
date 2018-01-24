@@ -16,7 +16,7 @@
 			"services": [
 				{
 					"description": "Website design",
-					"amount": "15000"
+					"amount": "17500"
 				},
 				{
 					"description": "Advertising",
@@ -25,6 +25,10 @@
 				{
 					"description": "Web hosting",
 					"amount": "20"
+				},
+				{
+					"description": "Tutorial",
+					"amount": "15"
 				}
 			]
 		},
