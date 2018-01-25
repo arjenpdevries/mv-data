@@ -1,38 +1,42 @@
 {
-	"courseName": "Lea Verou",
-	"courseDesc": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
+	"courseName": "Information Retrieval",
+	"courseDesc": "NWI-I00041-2017-KW1-V",
 	"courseURL": "http://informagus.nl/edu/IR.html",
 	"courseEmail": "arjen@cs.ru.nl",
 	"student": [
 		{
 			"id": "2",
+			"name": "Student #2",
+			"email": "S2@cs.ru.edu",
 			"skill": {
 				"name": "Blog",
 				"desc": "Contribution to writing"
 			},
-			"rsym": "...",
+			"rsym": "&#128077;",
 			"skills": [
 				{
 					"description": "blog writing",
-					"rating": "2"
+					"rating": "&#128077;"
 				},
 				{
 					"description": "coding",
-					"rating": "1"
+					"rating": "&#128077;"
 				}
 			]
 		},
 		{
 			"id": "1",
+			"name": "Student #1",
+			"email": "S1@cs.ru.edu",
 			"skill": {
 				"name": "John Doe",
 				"address": "2 Modern Red Square\nLong Island City\nNew York, NY 1120"
 			},
-			"rsym": "...",
+			"rsym": "&#128077;",
 			"skills": [
 				{
 					"description": "blog writing",
-					"rating": "2"
+					"rating": "&#128077;"
 				}
 			]
 		}
