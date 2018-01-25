@@ -5,6 +5,16 @@
 	"courseEmail": "arjen@cs.ru.nl",
 	"student": [
 		{
+			"id": "3",
+			"group": {
+				"groupName": "Test"
+			},
+			"rsym": "👍",
+			"skills": [
+				{}
+			]
+		},
+		{
 			"id": "2",
 			"name": "Student #2",
 			"email": "S2@cs.ru.edu",
@@ -22,7 +32,10 @@
 					"description": "coding",
 					"rating": "&#128077;"
 				}
-			]
+			],
+			"group": {
+				"groupName": "Group name"
+			}
 		},
 		{
 			"id": "1",
@@ -38,7 +51,8 @@
 					"description": "blog writing",
 					"rating": "&#128077;"
 				}
-			]
+			],
+			"group": {}
 		}
 	]
 }
