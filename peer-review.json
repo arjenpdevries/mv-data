@@ -5,7 +5,7 @@
 	"courseEmail": "arjen@cs.ru.nl",
 	"student": [
 		{
-			"id": "3",
+			"id": "1",
 			"group": {
 				"groupName": "Test",
 				"studentName": "Tom Tomsen",
@@ -42,7 +42,7 @@
 			}
 		},
 		{
-			"id": "1",
+			"id": "3",
 			"name": "Student #1",
 			"email": "S1@cs.ru.edu",
 			"skill": {
