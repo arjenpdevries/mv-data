@@ -7,7 +7,9 @@
 		{
 			"id": "3",
 			"group": {
-				"groupName": "Test"
+				"groupName": "Test",
+				"studentName": "Tom Tomsen",
+				"studentEmail": "tom@tom.toen"
 			},
 			"rsym": "👍",
 			"skills": [
@@ -34,7 +36,9 @@
 				}
 			],
 			"group": {
-				"groupName": "Group name"
+				"groupName": "Group name",
+				"studentName": "Piet Pietersen",
+				"studentEmail": "piet@piet.nu"
 			}
 		},
 		{
@@ -52,7 +56,10 @@
 					"rating": "&#128077;"
 				}
 			],
-			"group": {}
+			"group": {
+				"studentName": "Jan Jansen",
+				"studentEmail": "jan@test.nu"
+			}
 		}
 	]
 }
