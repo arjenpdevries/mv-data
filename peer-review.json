@@ -31,7 +31,8 @@
 					"rsym": "★★☆",
 					"rating": "★★☆"
 				}
-			]
+			],
+			"grade": "👏"
 		},
 		{
 			"id": "2",
@@ -51,7 +52,9 @@
 					"rating": "★★☆"
 				}
 			],
-			"comments": "Not much to say"
+			"comments": "Not much to say",
+			"grade": "👍"
 		}
-	]
+	],
+	"comments": "\n      Comments or feedback?\n    "
 }
