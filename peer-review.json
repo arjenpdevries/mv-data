@@ -14,7 +14,8 @@
 			"rsym": "👍",
 			"skills": [
 				{
-					"description": "Blog writing"
+					"description": "Blog writing",
+					"rating": "t"
 				},
 				{
 					"description": "Coding"
