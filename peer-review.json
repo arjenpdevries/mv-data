@@ -32,7 +32,8 @@
 					"rating": "★★☆"
 				}
 			],
-			"grade": "👍"
+			"grade": "👍",
+			"comments": "\n\tComments or feedback?\n      "
 		},
 		{
 			"id": "2",
