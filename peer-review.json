@@ -27,12 +27,10 @@
 			"rsym": "&#128077;",
 			"skills": [
 				{
-					"description": "blog writing",
-					"rating": "&#128077;"
+					"description": "blog writing"
 				},
 				{
-					"description": "coding",
-					"rating": "&#128077;"
+					"description": "coding"
 				}
 			],
 			"group": {
