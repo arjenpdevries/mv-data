@@ -32,8 +32,8 @@
 				}
 			],
 			"student": {
-				"studentName": "Student name",
-				"studentEmail": "Email address"
+				"studentName": "Student1 name",
+				"studentEmail": "S1@ru.nl"
 			}
 		},
 		{
@@ -60,7 +60,10 @@
 				"studentName": "Piet Pietersen",
 				"studentEmail": "piet@piet.nu"
 			},
-			"student": {}
+			"student": {
+				"studentName": "S2 name",
+				"studentEmail": "S3 mail"
+			}
 		},
 		{
 			"id": "3",
@@ -82,7 +85,10 @@
 				"studentName": "Jan Jansen",
 				"studentEmail": "jan@test.nu"
 			},
-			"student": {}
+			"student": {
+				"studentName": "S3 name",
+				"studentEmail": "S3 mail"
+			}
 		}
 	]
 }
