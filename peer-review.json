@@ -15,16 +15,20 @@
 			"skills": [
 				{
 					"description": "Blog writing",
-					"rating": "t"
+					"rating": "t",
+					"rsym": "★☆☆"
 				},
 				{
-					"description": "Coding"
+					"description": "Coding",
+					"rsym": "★★☆"
 				},
 				{
-					"description": "Analysis"
+					"description": "Analysis",
+					"rsym": "★★☆"
 				},
 				{
-					"description": "Groupwork"
+					"description": "Groupwork",
+					"rsym": "★★☆"
 				}
 			],
 			"student": {
@@ -43,10 +47,12 @@
 			"rsym": "&#128077;",
 			"skills": [
 				{
-					"description": "blog writing"
+					"description": "blog writing",
+					"rsym": "★★☆"
 				},
 				{
-					"description": "coding"
+					"description": "coding",
+					"rsym": "★★★"
 				}
 			],
 			"group": {
@@ -68,7 +74,8 @@
 			"skills": [
 				{
 					"description": "blog writing",
-					"rating": "&#128077;"
+					"rating": "&#128077;",
+					"rsym": "★★☆"
 				}
 			],
 			"group": {
