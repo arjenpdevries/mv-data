@@ -6,16 +6,13 @@
 	"student": [
 		{
 			"id": "1",
-			"group": {
-				"groupName": "Test",
-				"studentName": "Tom Tomsen",
-				"studentEmail": "tom@tom.toen"
+			"student": {
+				"studentName": "Student1 name",
+				"studentEmail": "S1@ru.nl"
 			},
-			"rsym": "👍",
 			"skills": [
 				{
 					"description": "Blog writing",
-					"rating": "t",
 					"rsym": "★★☆"
 				},
 				{
@@ -30,21 +27,14 @@
 					"description": "Groupwork",
 					"rsym": "★★☆"
 				}
-			],
-			"student": {
-				"studentName": "Student1 name",
-				"studentEmail": "S1@ru.nl"
-			}
+			]
 		},
 		{
 			"id": "2",
-			"name": "Student #2",
-			"email": "S2@cs.ru.edu",
-			"skill": {
-				"name": "Blog",
-				"desc": "Contribution to writing"
+			"student": {
+				"studentName": "S2 name",
+				"studentEmail": "S3 mail"
 			},
-			"rsym": "&#128077;",
 			"skills": [
 				{
 					"description": "blog writing",
@@ -54,41 +44,7 @@
 					"description": "coding",
 					"rsym": "★★★"
 				}
-			],
-			"group": {
-				"groupName": "Group name",
-				"studentName": "Piet Pietersen",
-				"studentEmail": "piet@piet.nu"
-			},
-			"student": {
-				"studentName": "S2 name",
-				"studentEmail": "S3 mail"
-			}
-		},
-		{
-			"id": "3",
-			"name": "Student #1",
-			"email": "S1@cs.ru.edu",
-			"skill": {
-				"name": "John Doe",
-				"address": "2 Modern Red Square\nLong Island City\nNew York, NY 1120"
-			},
-			"rsym": "&#128077;",
-			"skills": [
-				{
-					"description": "blog writing",
-					"rating": "&#128077;",
-					"rsym": "★★☆"
-				}
-			],
-			"group": {
-				"studentName": "Jan Jansen",
-				"studentEmail": "jan@test.nu"
-			},
-			"student": {
-				"studentName": "S3 name",
-				"studentEmail": "S3 mail"
-			}
+			]
 		}
 	]
 }
