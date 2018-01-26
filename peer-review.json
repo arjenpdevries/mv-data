@@ -13,19 +13,23 @@
 			"skills": [
 				{
 					"description": "Blog writing",
-					"rsym": "★★☆"
+					"rsym": "★★☆",
+					"rating": "★★☆"
 				},
 				{
 					"description": "Coding",
-					"rsym": "★★☆"
+					"rsym": "★★☆",
+					"rating": "★★☆"
 				},
 				{
 					"description": "Analysis",
-					"rsym": "★★☆"
+					"rsym": "★★☆",
+					"rating": "★★☆"
 				},
 				{
 					"description": "Groupwork",
-					"rsym": "★★☆"
+					"rsym": "★★☆",
+					"rating": "★★☆"
 				}
 			]
 		},
@@ -33,16 +37,18 @@
 			"id": "2",
 			"student": {
 				"studentName": "S2 name",
-				"studentEmail": "S3 mail"
+				"studentEmail": "S2main@cs.ru.nl"
 			},
 			"skills": [
 				{
 					"description": "blog writing",
-					"rsym": "★★☆"
+					"rsym": "★★☆",
+					"rating": "★★☆"
 				},
 				{
 					"description": "coding",
-					"rsym": "★★★"
+					"rsym": "★★★",
+					"rating": "★★☆"
 				}
 			]
 		}
