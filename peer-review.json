@@ -13,8 +13,23 @@
 			},
 			"rsym": "👍",
 			"skills": [
-				{}
-			]
+				{
+					"description": "Blog writing"
+				},
+				{
+					"description": "Coding"
+				},
+				{
+					"description": "Analysis"
+				},
+				{
+					"description": "Groupwork"
+				}
+			],
+			"student": {
+				"studentName": "Student name",
+				"studentEmail": "Email address"
+			}
 		},
 		{
 			"id": "2",
@@ -37,7 +52,8 @@
 				"groupName": "Group name",
 				"studentName": "Piet Pietersen",
 				"studentEmail": "piet@piet.nu"
-			}
+			},
+			"student": {}
 		},
 		{
 			"id": "3",
@@ -57,7 +73,8 @@
 			"group": {
 				"studentName": "Jan Jansen",
 				"studentEmail": "jan@test.nu"
-			}
+			},
+			"student": {}
 		}
 	]
 }
